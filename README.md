@@ -94,9 +94,9 @@ This is a [Ruby][] implementation of a [SPARQL][] client for [RDF.rb][].
 
 * [Ruby](http://ruby-lang.org/) (>= 2.2.2)
 * [RDF.rb](http://rubygems.org/gems/rdf) (~> 3.0)
-* [Net::HTTP::Persistent](http://rubygems.org/gems/net-http-persistent) (>= 1.4)
+* [Net::HTTP::Persistent](http://rubygems.org/gems/net-http-persistent) (~> 3.0)
 * Soft dependency on [SPARQL](http://rubygems.org/gems/sparql) (~> 3.0)
-* Soft dependency on [Nokogiri](http://rubygems.org/gems/nokogiri) (>= 1.7)
+* Soft dependency on [Nokogiri](http://rubygems.org/gems/nokogiri) (>= 1.8)
 
 ## Installation
 
